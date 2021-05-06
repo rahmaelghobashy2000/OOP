@@ -1,0 +1,18 @@
+D:\00 My Work\03 Courses\03 Year 2020_2021\Second Term\000.1 Object Oriented Programming (BHI)\00 Programs\Encrypting_Message_GUI\bin\Debug\Encrypting_Message_GUI.exe
+D:\00 My Work\03 Courses\03 Year 2020_2021\Second Term\000.1 Object Oriented Programming (BHI)\00 Programs\Encrypting_Message_GUI\bin\Debug\Encrypting_Message_GUI.pdb
+D:\00 My Work\03 Courses\03 Year 2020_2021\Second Term\000.1 Object Oriented Programming (BHI)\00 Programs\Encrypting_Message_GUI\obj\Debug\Encrypting_Message_GUI.csprojAssemblyReference.cache
+D:\00 My Work\03 Courses\03 Year 2020_2021\Second Term\000.1 Object Oriented Programming (BHI)\00 Programs\Encrypting_Message_GUI\obj\Debug\Encrypting_Message_GUI.MainForm.resources
+D:\00 My Work\03 Courses\03 Year 2020_2021\Second Term\000.1 Object Oriented Programming (BHI)\00 Programs\Encrypting_Message_GUI\obj\Debug\Encrypting_Message_GUI.Properties.Resources.resources
+D:\00 My Work\03 Courses\03 Year 2020_2021\Second Term\000.1 Object Oriented Programming (BHI)\00 Programs\Encrypting_Message_GUI\obj\Debug\Encrypting_Message_GUI.csproj.GenerateResource.cache
+D:\00 My Work\03 Courses\03 Year 2020_2021\Second Term\000.1 Object Oriented Programming (BHI)\00 Programs\Encrypting_Message_GUI\obj\Debug\Encrypting_Message_GUI.csproj.CoreCompileInputs.cache
+D:\00 My Work\03 Courses\03 Year 2020_2021\Second Term\000.1 Object Oriented Programming (BHI)\00 Programs\Encrypting_Message_GUI\obj\Debug\Encrypting_Message_GUI.exe
+D:\00 My Work\03 Courses\03 Year 2020_2021\Second Term\000.1 Object Oriented Programming (BHI)\00 Programs\Encrypting_Message_GUI\obj\Debug\Encrypting_Message_GUI.pdb
+D:\00 My Work\03 Courses\03 Year 2020_2021\Second Term\000.1 Object Oriented Programming (BHI)\00 Programs\02.1 Encrypting_Message_GUI\bin\Debug\Encrypting_Message_GUI.exe
+D:\00 My Work\03 Courses\03 Year 2020_2021\Second Term\000.1 Object Oriented Programming (BHI)\00 Programs\02.1 Encrypting_Message_GUI\bin\Debug\Encrypting_Message_GUI.pdb
+D:\00 My Work\03 Courses\03 Year 2020_2021\Second Term\000.1 Object Oriented Programming (BHI)\00 Programs\02.1 Encrypting_Message_GUI\obj\Debug\Encrypting_Message_GUI.csprojAssemblyReference.cache
+D:\00 My Work\03 Courses\03 Year 2020_2021\Second Term\000.1 Object Oriented Programming (BHI)\00 Programs\02.1 Encrypting_Message_GUI\obj\Debug\Encrypting_Message_GUI.MainForm.resources
+D:\00 My Work\03 Courses\03 Year 2020_2021\Second Term\000.1 Object Oriented Programming (BHI)\00 Programs\02.1 Encrypting_Message_GUI\obj\Debug\Encrypting_Message_GUI.Properties.Resources.resources
+D:\00 My Work\03 Courses\03 Year 2020_2021\Second Term\000.1 Object Oriented Programming (BHI)\00 Programs\02.1 Encrypting_Message_GUI\obj\Debug\Encrypting_Message_GUI.csproj.GenerateResource.cache
+D:\00 My Work\03 Courses\03 Year 2020_2021\Second Term\000.1 Object Oriented Programming (BHI)\00 Programs\02.1 Encrypting_Message_GUI\obj\Debug\Encrypting_Message_GUI.csproj.CoreCompileInputs.cache
+D:\00 My Work\03 Courses\03 Year 2020_2021\Second Term\000.1 Object Oriented Programming (BHI)\00 Programs\02.1 Encrypting_Message_GUI\obj\Debug\Encrypting_Message_GUI.exe
+D:\00 My Work\03 Courses\03 Year 2020_2021\Second Term\000.1 Object Oriented Programming (BHI)\00 Programs\02.1 Encrypting_Message_GUI\obj\Debug\Encrypting_Message_GUI.pdb
